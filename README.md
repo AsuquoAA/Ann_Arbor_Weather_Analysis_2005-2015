@@ -72,4 +72,5 @@ Each row in this datafile corresponds to a single observation from a weather sta
 1. The visualization demonstrates a clear range of daily temperature variations for 2005–2014.
 2. Several instances of extreme temperatures in 2015 suggest a potential increase in weather volatility.
 
-![Example_image](Screenshot 2024-11-21 at 20.35.37.png)
+Sample Picture
+! [Example_image](Screenshot 2024-11-21 at 20.35.37.png)
