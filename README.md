@@ -73,4 +73,4 @@ Each row in this datafile corresponds to a single observation from a weather sta
 2. Several instances of extreme temperatures in 2015 suggest a potential increase in weather volatility.
 
 Sample Picture
-! [Example_image](Screenshot 2024-11-21 at 20.35.37.png)
+![Example_image](https://github.com/Lazycodes/Ann_Arbor_Weather_Analysis_2005-2015/blob/main/Screenshot%202024-11-21%20at%2020.35.37.png)
