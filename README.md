@@ -74,3 +74,8 @@ Each row in this datafile corresponds to a single observation from a weather sta
 
 Sample Picture
 ![Example_image](https://github.com/Lazycodes/Ann_Arbor_Weather_Analysis_2005-2015/blob/main/Screenshot%202024-11-21%20at%2020.35.37.png)
+
+---
+
+## Acknowledgments
+This project is based on an assignment from the University of Michigan's Applied Data Science with Python Specialization on Coursera. Special thanks to the course instructors and the National Centers for Environmental Information (NCEI) for providing the dataset.
